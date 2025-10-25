@@ -6,11 +6,6 @@
     margin: 8px;
 }
 
-.img_format {
-    width: 250px;
-    height: 150px;
-    border-radius: 12px;
-}
 
 .card_style {
     display: flex;
@@ -21,8 +16,15 @@
     margin-right: 20%;
     box-shadow: 0 1px 4px;
     border-radius: 12px;
+
+    .card_text_style {
+    margin-left: 40px;
+    }
+
+    .img_format {
+    width: 250px;
+    height: 150px;
+    border-radius: 12px;
+    }
 }
 
-.card_text_style {
-    margin-left: 40px;
-}
