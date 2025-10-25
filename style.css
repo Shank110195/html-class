@@ -1,0 +1,28 @@
+.heading {
+    color: red;
+    font-size: 40px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 8px;
+}
+
+.img_format {
+    width: 250px;
+    height: 150px;
+    border-radius: 12px;
+}
+
+.card_style {
+    display: flex;
+    border: 0px solid red;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 0 1px 4px;
+    border-radius: 12px;
+}
+
+.card_text_style {
+    margin-left: 40px;
+}
